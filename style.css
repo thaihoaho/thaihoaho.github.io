@@ -1,0 +1,21 @@
+html {
+    background-color: #00539f;
+}
+body{
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px 20px 20px 20px;
+    background-color: white;
+}
+
+#from {
+    text-align: right;
+}
+
+#to {
+    text-align: left;
+}
+  
+#move {
+    text-align: center;
+}
